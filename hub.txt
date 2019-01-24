@@ -1,0 +1,6 @@
+hub Rotation2
+shortLabel Work 
+longLabel Rloops_project
+genomesFile genomes.txt
+email email_address
+descriptionUrl https://raw.githubusercontent.com/pappc/Rotation2/master/hub.txt
