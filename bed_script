@@ -1,0 +1,6 @@
+#!/bin/bash
+wdir=/usr/local/bioinf/hg19_Rloop_bedfiles
+cd wdir
+for i in *.mod; do
+	bedToBigBed $i hg19.chrom.sizes $i.bb
+done

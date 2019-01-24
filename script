@@ -1,0 +1,6 @@
+#!/bin/bash
+dir=/usr/local/hg19_Rloop_bedfiles/*
+for i in $dir; do
+gzip -d $i
+done
+
