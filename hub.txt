@@ -1,6 +1,6 @@
 hub Rotation2
-shortLabel Work 
-longLabel Rloops_project
+shortLabel Rloop data from breast cancer samples 
+longLabel Sequencing data using Rloop specific antibodies in breast cancer samples
 genomesFile genomes.txt
 email email_address
-descriptionUrl https://raw.githubusercontent.com/pappc/Rotation2/master/hub.txt
+
