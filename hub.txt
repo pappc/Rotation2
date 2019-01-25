@@ -2,5 +2,5 @@ hub Rotation2
 shortLabel Rloop data from breast cancer samples 
 longLabel Sequencing data using Rloop specific antibodies in breast cancer samples
 genomesFile genomes.txt
-email email_address
+email pappc@upstate.edu
 
