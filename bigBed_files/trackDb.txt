@@ -2,223 +2,223 @@ track GSM2537882_BSC117_Stromal.bam.macs14_peaks
 bigDataUrl GSM2537882_BSC117_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC117_Stromal 
 longLabel GSM2537882_BSC117_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537883_BSC117_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537883_BSC117_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC117_Basal 
 longLabel GSM2537883_BSC117_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537884_BSC117_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537884_BSC117_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC117_LumPro 
 longLabel GSM2537884_BSC117_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537885_BSC117_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537885_BSC117_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC117_MatLum 
 longLabel GSM2537885_BSC117_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537886_BSC119R_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537886_BSC119R_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC119R_Stromal 
 longLabel GSM2537886_BSC119R_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537887_BSC119R_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537887_BSC119R_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC119R_Basal 
 longLabel GSM2537887_BSC119R_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537888_BSC119R_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537888_BSC119R_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC119R_LumPro 
 longLabel GSM2537888_BSC119R_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537889_BSC119R_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537889_BSC119R_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC119R_MatLum 
 longLabel GSM2537889_BSC119R_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537890_BSC132L_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537890_BSC132L_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC132L_Stromal 
 longLabel GSM2537890_BSC132L_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537891_BSC132L_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537891_BSC132L_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC132L_Basal 
 longLabel GSM2537891_BSC132L_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537892_BSC132L_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537892_BSC132L_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC132L_LumPro 
 longLabel GSM2537892_BSC132L_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537893_BSC132L_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537893_BSC132L_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC132L_MatLum 
 longLabel GSM2537893_BSC132L_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537894_BSC134R_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537894_BSC134R_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC134R_Stromal 
 longLabel GSM2537894_BSC134R_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537895_BSC134R_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537895_BSC134R_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC134R_Basal 
 longLabel GSM2537895_BSC134R_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537896_BSC134R_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537896_BSC134R_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC134R_LumPro 
 longLabel GSM2537896_BSC134R_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537897_BSC134R_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537897_BSC134R_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC134R_MatLum 
 longLabel GSM2537897_BSC134R_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537898_BSC107_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537898_BSC107_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC107_Stromal 
 longLabel GSM2537898_BSC107_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537899_BSC107_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537899_BSC107_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC107_Basal 
 longLabel GSM2537899_BSC107_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537900_BSC107_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537900_BSC107_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC107_LumPro 
 longLabel GSM2537900_BSC107_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537901_BSC107_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537901_BSC107_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC107_MatLum 
 longLabel GSM2537901_BSC107_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537902_BSC115_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537902_BSC115_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC115_Stromal 
 longLabel GSM2537902_BSC115_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537903_BSC115_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537903_BSC115_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC115_Basal 
 longLabel GSM2537903_BSC115_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537904_BSC115_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537904_BSC115_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC115_LumPro 
 longLabel GSM2537904_BSC115_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537905_BSC115_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537905_BSC115_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC115_MatLum 
 longLabel GSM2537905_BSC115_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537906_BSC120L_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537906_BSC120L_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC120L_Stromal 
 longLabel GSM2537906_BSC120L_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537907_BSC120L_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537907_BSC120L_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC120L_Basal 
 longLabel GSM2537907_BSC120L_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537908_BSC120L_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537908_BSC120L_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC120L_LumPro 
 longLabel GSM2537908_BSC120L_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537909_BSC120L_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537909_BSC120L_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC120L_MatLum 
 longLabel GSM2537909_BSC120L_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537910_BSC127L_Stromal.bam.macs14_peaks 
 bigDataUrl GSM2537910_BSC127L_Stromal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC127L_Stromal 
 longLabel GSM2537910_BSC127L_Stromal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537911_BSC127L_Basal.bam.macs14_peaks 
 bigDataUrl GSM2537911_BSC127L_Basal.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC127L_Basal 
 longLabel GSM2537911_BSC127L_Basal.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537912_BSC127L_LumPro.bam.macs14_peaks 
 bigDataUrl GSM2537912_BSC127L_LumPro.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC127L_LumPro 
 longLabel GSM2537912_BSC127L_LumPro.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
 track GSM2537913_BSC127L_MatLum.bam.macs14_peaks 
 bigDataUrl GSM2537913_BSC127L_MatLum.bam.macs14_peaks.bed.mod.bb 
 shortLabel BSC127L_MatLum 
 longLabel GSM2537913_BSC127L_MatLum.bam.macs14_peaks 
-type bigbed 5 
+type bigBed 5 
 useScore 1 
 
